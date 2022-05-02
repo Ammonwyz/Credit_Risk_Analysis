@@ -60,3 +60,6 @@ Recall: The recall of this model is 0.92 for high risk is higher than others, an
 ## Summary:
 
 All the models have the downside, but from overall "Easy Ensemble AdaBoost Classifier" is a best model. It has highest Balanced Accuracy Score to minimize error, and also a better performer base on results of Recall.
+
+Recommand:
+As a credit card company, it is important to distinguish between high and low risks, thereby reducing the risk that the company will not be able to collect the loan. So, we need a model can have better perfomence on high and low risks.
