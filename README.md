@@ -59,4 +59,4 @@ Recall: The recall of this model is 0.92 for high risk is higher than others, an
 
 ## Summary:
 
-All the models have the downside, but from overall "Easy Ensemble AdaBoost Classifier" is a best 
+All the models have the downside, but from overall "Easy Ensemble AdaBoost Classifier" is a best model. It has highest Balanced Accuracy Score to minimize error, and also a better performer base on results of Recall.
